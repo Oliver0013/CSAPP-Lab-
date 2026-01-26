@@ -10,3 +10,4 @@
 |ATTACK LAB|3|注入代码/面向返回攻击|√|
 |ARCH LAB|4|与CPU架构有关，跳过|×|
 |CACHE LAB|6|高速缓存与代码优化|√|
+|SHELL LAB|8|异常控制流ECF的应用，利用信号搭建shell，有时间补|×|
